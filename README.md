@@ -1,2 +1,3 @@
-# N-Queens
-Graphics Solution of N-Quuens problem
+# N-Queensens problem
+
+Graphics Solution of N-Queens Problem
